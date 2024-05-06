@@ -1,0 +1,10 @@
+{
+    "globalDomain":"https://h5.jeff-in.com",
+    "globalWebSocket": "wss://h5.jeff-in.com",
+    "globalName":"JEFF-IN",
+    "androidAuditSwitch":"true",
+    "iosAuditSwitch":"true",
+    "globalLogo":"https://s2.loli.net/2024/04/26/wRZuqGAezvFLsjD.png",
+    "globalFirstTheme":"system",
+    "globalLanguage":"system"
+}
