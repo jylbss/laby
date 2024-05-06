@@ -1,6 +1,6 @@
 {
     "globalDomain":"https://h5.dthfc.com",
-    "globalWebSocket": "wss://h5.dthfc.com,
+    "globalWebSocket": "wss://h5.dthfc.com",
     "globalName":"HFC-Co",
     "androidAuditSwitch":"true",
     "iosAuditSwitch":"true",
